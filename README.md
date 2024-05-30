@@ -1,6 +1,1 @@
-Myself Amarnath B PATIL,                                                        
-        Student at SAI VIDYA INSTITUTE OF TECHNOLOGY,                                                      
-        Pursuing COMPUTER SCIENCE(DATA SCIENCE)ENGINEERING,                  
-        I HAVE INTERMEDIATE SKILLS IN PYTHON,JAVA,C and VIDEO EDITING
-
-
+My name is Amarnath B. Patil, and I am currently a student at SAI Vidya Institute of Technology, pursuing a degree in Computer Science with a specialization in Data Science. I have intermediate skills in Python, Java, and C, and I am actively advancing my expertise in Data Science and Web Development through a Master's program. My goal is to leverage my technical skills and academic knowledge to solve complex problems and contribute to innovative projects in the field of data science and technology.
